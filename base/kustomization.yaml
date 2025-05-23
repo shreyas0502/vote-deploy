@@ -6,4 +6,3 @@ resources:
 images:
 - name: schoolofdevops/vote
   newName: redglare05/vote
-  newTag: latest
